@@ -1,0 +1,16 @@
+{
+  "name": "request-header-parser-microservice-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goojal/request-header-parser-microservice-api"
+  },
+  "author": "goojal <amiralimail@gmail.com>",
+  "license": "MIT"
+}
